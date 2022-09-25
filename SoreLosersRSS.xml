@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Sore Losers BMX Podcast</title>
+  <link>https://www.derfwerd.dev</link>
+  <description>
+  A BMX podcast hosted by Justin Koebele and Austin Mazur. 
+  Talking to our friends about all things riding related. 
+  Web videos, DVDs, camera gear, and the philosophy of eating 
+  shit while riding tiny bikes as adults approaching 30.
+  </description>
+  <language>en-us</language>
+  <copyright>derfwerd 2022</copyright>
+  <managingEditor>justinkoebele@gmail.com</managingEditor>
+  <webMaster>freddydrew@gmail.com</webMaster>
+  <category>Podcast</category>
+  <pubDate>Sun, 25 Sep 2022 04:14:00 EST</pubDate>
+  <lastBuildDate>Sun, 25 Sep 2022 04:14:00 EST</lastBuildDate>
+  <generator>Visual Studio Code</generator>
+  <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+  <ttl>60</ttl>
+  
+  <item>
+    <title>PODCAST NAME</title>
+    <link>YADA YADA</link>
+    <description>PODCAST EPISODE</description>
+    <enclosure url="" length="5000" type="audio/mpeg" />
+  </item>
+
+</channel>
+</rss>
