@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: Lato;
+}
+
+/* Remove padding and margin from the greater html body. */
+html, body {
+  margin: 0%;
+  padding: 0%;
+}
+
+
+.main-header {
+  text-align: center;
+  background-color: rgba(0, 0, 0, .9);
+}
+
+.main-header h1 {
+  color: rgba(255, 255, 255, 1);
+  margin: 0%;
+  padding: 2%;
+}
+
+.main-nav {
+  font-size: 110%;
+  font-weight: lighter;
+  border-bottom: 1px solid rgba(255, 255, 255, .3);
+}
+
+.main-nav a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  margin: 1%;
+}
+
+.main-nav a:hover {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer {
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  margin: 0%;
+  padding: 1%;
+  background-color: rgba(0, 0, 0, 0.9);
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+}
+
+.footer-nav a{
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+  margin: 0%;
+  padding: 1%;
+}
+
+
+

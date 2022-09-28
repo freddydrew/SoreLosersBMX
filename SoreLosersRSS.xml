@@ -20,6 +20,7 @@
   <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
   <ttl>60</ttl>
   
+  <!--NEED AN ITEM FOR EACH PODCAST EPISODE-->
   <item>
     <title>PODCAST NAME</title>
     <link>YADA YADA</link>
